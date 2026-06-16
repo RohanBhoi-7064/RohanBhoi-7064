@@ -1,94 +1,217 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Rohan%20Bhoi&fontSize=50&animation=fadeIn&theme=tokyonight" width="100%" alt="Header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Rohan%20Bhoi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20DevOps%20%7C%20Security&descSize=18&descAlignY=55&descColor=c4b5fd" width="100%" />
 
-<p align="center">
-  <strong>💻 Full-Stack Engineer · ☁️ DevOps Explorer · 🛡️ Ethical Hacking & Security · Grad 2027</strong>
-</p>
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    "I build things from scratch, break them on purpose,      ║
+║     and fix them in smarter ways."                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## ⚡ Hello there 👋
+</div>
 
-I'm Rohan — a full-stack engineer who loves building things from scratch, breaking them on purpose, and then fixing them in smarter ways. I work across frontend, backend, DevOps, and I'm steadily diving deeper into ethical hacking.
+## ⚡ About Me
 
-I started out writing simple web applications, moved into backend and API development, and eventually got pulled into automation, cloud, and pipelines. The more I explored, the more I realized security isn't a separate skill — it's something that needs to be baked into everything we build.
+I'm a **full-stack engineer** who works across the entire stack — frontend, backend, DevOps, and security. I started out writing simple web applications, moved into backend and API development, and eventually got pulled into automation, cloud infrastructure, and CI/CD pipelines.
 
-I spend my time experimenting with new stacks, optimizing systems, and learning how attackers exploit weak spots so I can close them before they even exist. And when I'm on stage, I love sharing these experiences — breaking down complex topics into practical insights for developers and students.
+The more I explored, the more I realized security isn't a separate skill — it's something that needs to be baked into everything we build. So now I split my time between **building production-grade systems** and **understanding how attackers try to break them**.
 
-Outside of work, I explore hacking labs, read about modern attack vectors, and occasionally lose track of time tweaking some random project.
-
-📌 Feel free to browse through my repositories — I've pinned the ones that reflect my journey the best. Thanks for dropping by, fellow developer!
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+When I'm not coding, I'm exploring hacking labs, reading about modern attack vectors, and occasionally losing track of time tweaking some random project.
 
 ---
 
-## 🔍 Featured Projects
+## 🧬 What Drives Me
 
-### 🛡️ Security & Hacking Tools
-| Project | Description | Stack |
-|:--------|:-----------|:------|
-| **[log-ids](https://github.com/RohanBhoi-7064/log-ids)** | Web server log intrusion detection system with signature-based threat matching and interactive security monitoring dashboard | Python, Chart.js |
-| **[port-scanner](https://github.com/RohanBhoi-7064/port-scanner)** | Multi-threaded network port scanner with service banner grabbing and vulnerability signature catalog checking | Python, Sockets, Threading |
-| **[password-manager](https://github.com/RohanBhoi-7064/password-manager)** | Command-line password manager with AES-256 encryption, PBKDF2 key derivation, and SQLite storage | Python, Cryptography, SQLite |
+```
+🌐 Web Development     ████████████████████  Full-Stack (Frontend + Backend)
+☁️ Cloud & DevOps       ██████████████████░░  Docker, CI/CD, Infrastructure
+🤖 AI & ML             ████████████████░░░░  Exploring & Learning
+🛡️ Security            ██████████████████░░  Offensive + Defensive
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Databases & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+</div>
+
+---
+
+## 📡 Currently Learning
+
+<div align="center">
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=hackthebox&logoColor=FF6633)
+
+</div>
+
+---
+
+## 🔍 Featured Work
+
+<div align="center">
+
+### 🛡️ Security & Offensive Tools
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**[🔐 Log IDS](https://github.com/RohanBhoi-7064/log-ids)**
+<br/>Web server log intrusion detection system with signature-based threat matching for SQLi, XSS, path traversal, and brute force. Includes an interactive security monitoring dashboard.
+<br/>`Python` `Regex` `Chart.js`
+
+</td>
+<td width="50%">
+
+**[🌐 Port Scanner](https://github.com/RohanBhoi-7064/port-scanner)**
+<br/>Multi-threaded network port scanner with service banner grabbing and vulnerability signature catalog matching. CLI-driven with argparse.
+<br/>`Python` `Sockets` `Threading`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🔑 Password Manager](https://github.com/RohanBhoi-7064/password-manager)**
+<br/>Command-line password vault using AES-256 encryption with PBKDF2 key derivation and SQLite secure storage.
+<br/>`Python` `Cryptography` `SQLite`
+
+</td>
+<td width="50%">
+
+**[🕷️ Web Crawler](https://github.com/RohanBhoi-7064/web-crawler)**
+<br/>Concurrent web crawler with robots.txt compliance, domain scope filtering, and structured JSON sitemap exports.
+<br/>`Python` `BeautifulSoup` `Threading`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 🌐 Full-Stack & Backend
-| Project | Description | Stack |
-|:--------|:-----------|:------|
-| **[realtime-chat](https://github.com/RohanBhoi-7064/realtime-chat)** | Real-time chat application with multiple rooms, typing indicators, and active user tracking | React, Socket.io, Node.js |
-| **[blog-api](https://github.com/RohanBhoi-7064/blog-api)** | RESTful blogging engine API with JWT authentication, comments, and image uploads | Node.js, Express, MongoDB |
-| **[url-shortener](https://github.com/RohanBhoi-7064/url-shortener)** | URL shortener with click analytics tracking and Redis caching layer | Python, Flask, SQLite, Redis |
 
-### ⚙️ DevOps & Automation
-| Project | Description | Stack |
-|:--------|:-----------|:------|
-| **[mern-docker](https://github.com/RohanBhoi-7064/mern-docker)** | Containerized MERN stack boilerplate with Docker Compose orchestration | Docker, React, Node.js, MongoDB |
-| **[web-crawler](https://github.com/RohanBhoi-7064/web-crawler)** | Multi-threaded web crawler with robots.txt compliance, domain filtering, and JSON sitemap export | Python, Threading, BeautifulSoup |
+</div>
 
-### 📊 Frontend & Data Visualization
-| Project | Description | Stack |
-|:--------|:-----------|:------|
-| **[expense-tracker](https://github.com/RohanBhoi-7064/expense-tracker)** | Responsive expense tracker dashboard with budget limits, category breakdowns, and SVG charts | React, TailwindCSS, Chart.js |
-| **[weather-dashboard](https://github.com/RohanBhoi-7064/weather-dashboard)** | Glassmorphic weather dashboard with live global forecast telemetry | HTML, CSS, JavaScript, APIs |
+<table>
+<tr>
+<td width="50%">
+
+**[💬 Real-Time Chat](https://github.com/RohanBhoi-7064/realtime-chat)**
+<br/>Multi-room real-time messaging system with typing indicators, active user feeds, and message history persistence.
+<br/>`React` `Socket.io` `Node.js` `Express`
+
+</td>
+<td width="50%">
+
+**[📝 Blog API](https://github.com/RohanBhoi-7064/blog-api)**
+<br/>RESTful blogging engine with JWT authentication, post/comment CRUD, ownership verification, and image uploads.
+<br/>`Node.js` `Express` `MongoDB` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🔗 URL Shortener](https://github.com/RohanBhoi-7064/url-shortener)**
+<br/>Flask URL shortener with base62 encoding, click analytics tracking, and Redis caching layer for fast redirects.
+<br/>`Python` `Flask` `SQLite` `Redis`
+
+</td>
+<td width="50%">
+
+**[🐳 MERN Docker](https://github.com/RohanBhoi-7064/mern-docker)**
+<br/>Production-ready containerized MERN stack boilerplate with Docker Compose multi-service orchestration.
+<br/>`Docker` `React` `Node.js` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Frontend & Visualization
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**[💰 Expense Tracker](https://github.com/RohanBhoi-7064/expense-tracker)**
+<br/>Responsive expense dashboard with category budget limits, warning alerts, local storage sync, and SVG donut charts.
+<br/>`React` `TailwindCSS` `Chart.js`
+
+</td>
+<td width="50%">
+
+**[☁️ Weather Dashboard](https://github.com/RohanBhoi-7064/weather-dashboard)**
+<br/>Glassmorphic weather interface displaying live global forecast telemetry with smooth transitions and keyless API integration.
+<br/>`HTML` `CSS` `JavaScript` `APIs`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanBhoi-7064&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhoi-7064&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanBhoi-7064&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RohanBhoi-7064&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhoi-7064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanBhoi-7064&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=c9d1d9" width="60%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanBhoi-7064&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=c4b5fd&area=true&area_color=6366f1" width="95%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=tokyonight" width="100%" alt="Footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=100&section=footer" width="100%" />
