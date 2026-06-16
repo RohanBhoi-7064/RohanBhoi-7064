@@ -1,17 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=220&section=header&text=Rohan%20Bhoi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20DevOps%20%7C%20Security&descSize=18&descAlignY=55&descColor=c4b5fd" width="100%" />
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    "I build things from scratch, break them on purpose,      ║
-║     and fix them in smarter ways."                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ## ⚡ About Me
 
