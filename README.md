@@ -195,23 +195,5 @@ When I'm not coding, I'm exploring hacking labs, reading about modern attack vec
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RohanBhoi-7064&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhoi-7064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanBhoi-7064&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=6366f1&currStreakLabel=c9d1d9" width="60%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanBhoi-7064&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6366f1&point=c4b5fd&area=true&area_color=6366f1" width="95%" />
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=100&section=footer" width="100%" />
+
